@@ -4,9 +4,8 @@ title: About
 permalink: /
 layout: index
 order: 0
+image: '/images/pages/about.jpg'
 ---
-
-![alt](/images/pages/about.jpg)
 
 The large-scale digitisation of newspapers over the past decades has facilitated access to newspaper collections but also raised a series of challenges for librarians, users, and more specifically researchers. In this context, the Eldorado workshop, supported by the impresso project, will bring together a group of historians, librarians, computer scientists and designers to discuss how digitisation is changing historical research practices.
 
