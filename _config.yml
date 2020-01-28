@@ -9,8 +9,8 @@
 title:       Eldorado-Workshop
 email:       'https://groups.google.com/forum/#!forum/clef-hipe-2020'
 description: 'The Eldorado workshop, supported by the impresso project, will bring together a group of historians, librarians, computer scientists and designers to discuss how digitisation is changing historical research practices.'
-baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://impresso.github.io/eldorado' # The base hostname & protocol for your site
+baseurl:     '/eldorado' # The subpath of your site, e.g. /blog
+url:         'https://impresso.github.io' # The base hostname & protocol for your site
 twitter:     'https://twitter.com/impressoproject'
 github:      'https://github.com/impresso/eldorado'
 
