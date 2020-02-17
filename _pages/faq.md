@@ -6,24 +6,35 @@ order: 100
 image: '/images/pages/contact.jpg'
 ---
 
+
+
+
+
+**I do not have a paper at the workshop, can I still attend the conference?**
+
+Yes, your are welcome, but you must first register via [eventbrite](https://www.eventbrite.com/e/eldorado-workshop-registration-91108149929).
+
+
+
+**I will present at the workshop, what are the instructions for the presentations**?
+
+Presentation should be in English and last about 15min. Please refer to the [Authors](/authors/) page.
+
+
+
+**To which hotel can I stay? Do you have preferential tarifs?**
+
+We provide a list of hotels with preferential tarifs on the [Venue](/pages/logistics/) page.
+
+
+
 **What are my transportation/parking options for getting to and from the event?**
 
-More information will be pusblished on the workshop website.
-
-**You can reach EPFL by public transportation from the Lausanne or Renens train stations.**
-
-See the Swiss Railway website for details and timetables.
+Please refer to the [Venue](/pages/logistics/) page.
 
 
 
 **How can I contact the organizer with any questions?**
 
-The Eldorado workshop website will soon be up and contain all information. In case you do not find an answer to your question there, do not hesitate to contact us at info@impresso-project.ch.
+If you did not find an answer to your question, do not hesitate to contact us at [info@impresso-project.ch](mailto:info@impresso-project.ch).
 
-**Do I have to bring my printed ticket to the event?**
-
-No, you do not need to bring you ticket.
-
-**Can I update my registration information?**
-
-Yes.

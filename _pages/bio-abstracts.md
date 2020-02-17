@@ -2,7 +2,7 @@
 layout: page
 title: Abstracts & Bios
 permalink: /bio-abstracts/
-order: 100
+order: 20
 #image: '/images/pages/contact.jpg'
 
 
