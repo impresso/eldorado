@@ -1,37 +1,22 @@
 ---
 title: About
-#title_long: Eldorado-Workshop by Impresso project (EPFL, C2DH, UZH)
+title_long: Digitised newspapers - a new Eldorado for historians ?
 permalink: /
 layout: index
 order: 0
 image: '/images/pages/about.jpg'
 ---
 
-The large-scale digitisation of newspapers over the past decades has facilitated access to newspaper collections but also raised a series of challenges for librarians, users, and more specifically researchers. In this context, the Eldorado workshop, supported by the impresso project, will bring together a group of historians, librarians, computer scientists and designers to discuss how digitisation is changing historical research practices.
+<div style="text-align: justify"> From manual, on-site exploration of microfilm or paper collections to online keyword search over millions of OCRized page, <b>access to digitized newspapers has changed significantly</b>. Coupled with automatic enrichement of sources via text and image processing, this represents a whole world of new possibilities. <b>An Eldorado?</b> Despite undeniable merits, the digital transformation and the new affordance of historical newspapers  also brings some <b>drawbacks and possible pitfalls which need to be carefully assessed</b>. The Eldorado workshop, supported by the impresso project, will bring  together a group of historians, librarians, computer scientists and designers to discuss <b>how digitisation is changing historical research practices</b>.</div><br>
 
-_the following has to be deleted. I left it in as a quick markdown reference_
+- **Registration** is free, but mandatory: [event brite [button]()]
+
+- **Dates & Place**: 23 and 24 April 2020, Lausanne, Switzerland.
+
+- **Programme**: still subject to small changes, but [here](/eldorado/program/****).
+
+- **Venue and Accommodation**: 
+- **Questions?** Please have a look at the [FAQ](), or email [us](info@impresso-project.ch).
 
 
 
-**Motivation**
-
-Since its introduction some twenty years ago, named entity (NE) processing has become an essential component of virtually any text mining application and has undergone major changes. Recently, two main trends characterise its developments: the adoption of deep learning architectures, and the consideration of textual material originating from historical and cultural heritage collections. While the former opens up new opportunities, the latter introduces new challenges with heterogeneous, historical and noisy inputs. If NE processing tools are increasingly being used in the context of historical documents, performances are below the ones on contemporary data and are hardly comparable. In this context,  the objective of HIPE is threefold:
-
-1. to strengthen the robustness of existing approaches on non-standard input;
-2. to enable performance comparison of NE processing on historical texts;
-   and, in the long run,
-3. to foster efficient semantic indexing of historical documents in order to support scholarship on digital cultural heritage collections
-
-**Tasks**
-
-- Task 1: Named Entity Recognition and Classification.
-- Task 2 : Named Entity Linking.
-
-**Contact**
-
-- Twitter: news will be posted via the [@ImpressoProject](https://twitter.com/ImpressoProject/). Participants can also follow the [@clef_initiative ](https://twitter.com/clef_initiative) account, and use the #clef2020 hash tag.
-- Discussion group for participants: [https://groups.google.com/forum/#!forum/clef-hipe-2020](https://groups.google.com/forum/#!forum/clef-hipe-2020)
-
-**Registration**
-
-Via the CLEF 2020 portal: [http://clef2020-labs-registration.dei.unipd.it/]( http://clef2020-labs-registration.dei.unipd.it/) until 26 April 2020.
