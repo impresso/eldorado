@@ -8,6 +8,8 @@ image: '/images/pages/program.jpg'
 
 [jump to  [24 April](#friday-24-april)]
 
+***Still subject to minor changes***
+
 ### Thursday 23 April 2019
 
 **08h30-9h00:** Welcome & Coffee.
