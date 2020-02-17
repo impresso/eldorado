@@ -7,7 +7,7 @@
 
 # Site settings
 title:       Eldorado-Workshop
-email:       'https://groups.google.com/forum/#!forum/clef-hipe-2020'
+email:       'info@impresso-project.ch'
 description: 'The Eldorado workshop, supported by the impresso project, will bring together a group of historians, librarians, computer scientists and designers to discuss how digitisation is changing historical research practices.'
 baseurl:     '/eldorado' # The subpath of your site, e.g. /blog
 url:         'https://impresso.github.io' # The base hostname & protocol for your site
