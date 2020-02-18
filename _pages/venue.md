@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Venue
-permalink: logistics/
+permalink: venue/
 order: 30
 #image: '/images/pages/contact.jpg'
 
@@ -23,15 +23,15 @@ SBB [mobile app](https://www.sbb.ch/en/timetable/mobile-apps/sbb-mobile.html) an
 - Arriving from Lausanne by metro from the lake:  take the Metro M2 (direction Epalinges, Croisette), stop at  Lausanne-Flon, change to the Metro M1 that will take you to the EPFL (total 25min).        
 - Arriving from Lausanne by metro from the city center:  take Metro M1 that will take you to the EPFL stop (17min).
 
-If you are by car, you will need to find a space in the ‘White places’ (aka. visitor parking spots). More details on parking can be found on this [page](https://www.epfl.ch/campus/mobility/vehicles/car-parks/white-places/), including a link to a map indicating the available lots. 
+If you are by car, you will need to find a space in the ‘White places’ (aka. visitor parking spots). More details on parking can be found on this [page](https://www.epfl.ch/campus/mobility/vehicles/car-parks/white-places/), including a link to a map indicating the available lots.
 
 Here is the walking path from EPFL metro strop to ArtLab:
 
-![](images/pages/findmyway-artlab.jpg)
+![](../images/pages/findmyway-artlab.jpg)
 
 #### How to arrive to Lausanne
 
-If you arrives by plane, the easiest way from Geneva Airport is by train. The train station is located in the airport itself, and there are multi-lingual ticket machines and a ticket counter available. 
+If you arrives by plane, the easiest way from Geneva Airport is by train. The train station is located in the airport itself, and there are multi-lingual ticket machines and a ticket counter available.
 
 
 
@@ -64,9 +64,6 @@ If you arrives by plane, the easiest way from Geneva Airport is by train. The tr
 
 #### Food
 
-Impresso will be providing lunch on both days as well as dinner on the evening of April 23th. 
+Impresso will be providing lunch on both days as well as dinner on the evening of April 23th.
 
 ​         
-
-
-
