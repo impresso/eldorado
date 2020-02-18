@@ -59,9 +59,9 @@ image: '/images/pages/program.jpg'
 
 **10h30-11h00:** *Coffee break*.
 
-**11h00-12h30:** (for now parallel sessions, will be reschedules into one)
+**11h00-12h30:** (for now parallel sessions, will be rescheduled into one)
 
-**Second digital life of analogue newspaper topical collections. ** *Chair*: Matteo Romanello 
+**Second digital life of analogue newspaper topical collections.** *Chair*: Matteo Romanello 
 
 1. Suzanna Krivulskaya. *The Crimes of Preachers: Religion, Scandal, and the Trouble with Digitized Archives.*
 2. Martin Gasteiner and Andreas Enderlin. *Crossing or Intersecting the Emperor´s Desk with digitized Newspaper Data (Arbeitstitel).*
