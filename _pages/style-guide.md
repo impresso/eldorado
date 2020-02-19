@@ -14,7 +14,7 @@ Graphic design is the paradise of individuality, eccentricity, heresy, abnormali
 
 <script async src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
-<script async type="text/javascript">
+<script type="text/javascript">
     var exampleCallback = function() {
         console.log('Order complete!');
     };
@@ -29,7 +29,7 @@ Graphic design is the paradise of individuality, eccentricity, heresy, abnormali
 
 # Testing as as a button that opens the checkout modal
 
-<script async type="text/javascript">
+<script type="text/javascript">
     var exampleCallback = function() {
         console.log('Order complete!');
     };
