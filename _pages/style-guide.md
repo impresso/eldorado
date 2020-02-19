@@ -4,34 +4,6 @@ title: Style Guide
 image: '/images/pages/styleguide.jpg'
 ---
 
-<div id="eventbrite-widget-modal-trigger-91108149929"></div>
-
-<!-- Noscript content for added SEO -->
-<noscript><a href="https://www.eventbrite.com/e/eldorado-workshop-registration-91108149929" rel="noopener noreferrer" target="_blank"></noscript>
-<!-- You can customize this button any way you like -->
-<button id="eventbrite-widget-modal-trigger-91108149929" type="button">Buy Tickets</button>
-<noscript></a>Register on Eventbrite</noscript>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        widgetType: 'checkout',
-        eventId: '91108149929',
-        modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-91108149929',
-        onOrderComplete: exampleCallback
-    });
-</script>
-
-At [Aspire Themes](http://aspirethemes.com/) I use a lot of tools to help me create WordPress, Ghost and Jekyll themes. Tools will range from development, design, services, hosting and automation.
-
-Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. - George Santayana.
-
 # Testing eventbrite as embedded on the page with the content
 
 <div id="eventbrite-widget-container-91108149929"></div>
@@ -46,10 +18,15 @@ Graphic design is the paradise of individuality, eccentricity, heresy, abnormali
         widgetType: 'checkout',
         eventId: '91108149929',
         iframeContainerId: 'eventbrite-widget-container-91108149929',
-        iframeContainerHeight: 425,
-        onOrderComplete: exampleCallback
+        iframeContainerHeight: 525,
     });
 </script>
+
+
+
+At [Aspire Themes](http://aspirethemes.com/) I use a lot of tools to help me create WordPress, Ghost and Jekyll themes. Tools will range from development, design, services, hosting and automation.
+
+Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. - George Santayana.
 
 ---
 
