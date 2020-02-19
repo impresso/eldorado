@@ -4,11 +4,13 @@ title: Style Guide
 image: '/images/pages/styleguide.jpg'
 ---
 
+<div id="eventbrite-widget-modal-trigger-91108149929"></div>
+
 <!-- Noscript content for added SEO -->
 <noscript><a href="https://www.eventbrite.com/e/eldorado-workshop-registration-91108149929" rel="noopener noreferrer" target="_blank"></noscript>
 <!-- You can customize this button any way you like -->
 <button id="eventbrite-widget-modal-trigger-91108149929" type="button">Buy Tickets</button>
-<noscript></a>Register</noscript>
+<noscript></a>Register on Eventbrite</noscript>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
@@ -32,7 +34,22 @@ Graphic design is the paradise of individuality, eccentricity, heresy, abnormali
 
 # Testing eventbrite as embedded on the page with the content
 
+<div id="eventbrite-widget-container-91108149929"></div>
 
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+    window.EBWidgets.createWidget({
+        widgetType: 'checkout',
+        eventId: '91108149929',
+        iframeContainerId: 'eventbrite-widget-container-91108149929',
+        iframeContainerHeight: 425,
+        onOrderComplete: exampleCallback
+    });
+</script>
 
 ---
 
