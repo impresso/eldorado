@@ -66,9 +66,9 @@ Abstract: Late-nineteenth century U.S. newspapers provide a rich archive of the 
 Abstract: 
 
 
-**Sarah Oberbichler. Challenges and Pitfalls when working with Digital Newspaper Collections - an Example on the Topic "Return Migration" and the AustriaN Newspapers Online (ANNO) Platform.**
+**Sarah Oberbichler. Challenges and Pitfalls when working with Digital Newspaper Collections - an Example on the Topic "Return Migration".**
 
-Abstract:
+Abstract: Based on a case study on return migration - defined as the movement of emigrants, refugees, prisoners of war, etc. back to their country of origin – this paper shows the impact of noisy automatic text recognition (OCR), limited search and download options, and missing metadata on research with historical newspapers. The attempt to find suitable subcorpora for further empirical analysis has clearly shown that what can be found via interfaces does not  always reflect what is actually reported in the newspapers. This arises the question as to how we can reduce serious distortions and a one-sided "tunnel vision" while building subcorpora to such an extent that valid research results can be obtained?
 
 
 **Petri Paju and Heli Rantala and Hannu Salmi. Cycles of Text Reuse in Finnish Newspapers and Periodicals, 1771–1920: Ontological and epistemological perspectives.**
