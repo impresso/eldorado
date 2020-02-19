@@ -10,11 +10,11 @@ Graphic design is the paradise of individuality, eccentricity, heresy, abnormali
 
 # Testing eventbrite as embedded on the page with the content
 
-<div id="eventbrite-widget-container-91108149929">test container</div>
+<div id="eventbrite-widget-container-91108149929"></div>
 
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+<script async src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
-<script type="text/javascript">
+<script async type="text/javascript">
     var exampleCallback = function() {
         console.log('Order complete!');
     };
@@ -29,7 +29,7 @@ Graphic design is the paradise of individuality, eccentricity, heresy, abnormali
 
 # Testing as as a button that opens the checkout modal
 
-<script type="text/javascript">
+<script async type="text/javascript">
     var exampleCallback = function() {
         console.log('Order complete!');
     };
