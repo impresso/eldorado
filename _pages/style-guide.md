@@ -10,7 +10,9 @@ Graphic design is the paradise of individuality, eccentricity, heresy, abnormali
 
 # Testing eventbrite as embedded on the page with the content
 
-<script async src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+<div id="eventbrite-widget-container-91108149929"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
 <script type="text/javascript">
     var exampleCallback = function() {
@@ -31,27 +33,7 @@ Graphic design is the paradise of individuality, eccentricity, heresy, abnormali
 
 # Testing as as a button that opens the checkout modal
 
-<!-- Noscript content for added SEO -->
-<noscript><a href="https://www.eventbrite.com/e/eldorado-workshop-registration-91108149929" rel="noopener noreferrer" target="_blank"></noscript>
-<!-- You can customize this button any way you like -->
-<button id="eventbrite-widget-modal-trigger-91108149929" type="button">Buy Tickets</button>
-<noscript></a>Buy Tickets on Eventbrite</noscript>
-
-<script async src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        widgetType: 'checkout',
-        eventId: '91108149929',
-        modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-91108149929',
-        onOrderComplete: exampleCallback
-    });
-</script>
+not yet
 
 ---
 
