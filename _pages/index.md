@@ -13,7 +13,7 @@ image: '/images/pages/about.jpg'
 
 - **Dates & Place**: 23 and 24 April 2020, Lausanne, Switzerland.
 
-- **Programme**: first version available, [here](/eldorado/program/****) (still subject to small changes).
+- **Programme**: first version available, [here](/eldorado/program) (still subject to small changes).
 
 - **Venue and Accommodation**:  Visit the [Venue]() page (or check the 'hamburger' menu on the top-right).
 - **Questions?** Please have a look at the [FAQ](), or email [us](info@impresso-project.ch).
