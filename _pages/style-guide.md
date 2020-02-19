@@ -29,7 +29,18 @@ Graphic design is the paradise of individuality, eccentricity, heresy, abnormali
 
 # Testing as as a button that opens the checkout modal
 
-not yet
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+    window.EBWidgets.createWidget({
+        widgetType: 'checkout',
+        eventId: '91108149929',
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-91108149929',
+        onOrderComplete: exampleCallback
+    });
+</script>
 
 ---
 
