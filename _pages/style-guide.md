@@ -12,7 +12,7 @@ Graphic design is the paradise of individuality, eccentricity, heresy, abnormali
 
 <div id="eventbrite-widget-container-91108149929"></div>
 
-<script async src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
 <script type="text/javascript">
     var exampleCallback = function() {
@@ -23,21 +23,6 @@ Graphic design is the paradise of individuality, eccentricity, heresy, abnormali
         eventId: '91108149929',
         iframeContainerId: 'eventbrite-widget-container-91108149929',
         iframeContainerHeight: 425,
-        onOrderComplete: exampleCallback
-    });
-</script>
-
-# Testing as as a button that opens the checkout modal
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-    window.EBWidgets.createWidget({
-        widgetType: 'checkout',
-        eventId: '91108149929',
-        modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-91108149929',
         onOrderComplete: exampleCallback
     });
 </script>
