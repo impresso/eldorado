@@ -12,9 +12,9 @@ Graphic design is the paradise of individuality, eccentricity, heresy, abnormali
 
 <div id="eventbrite-widget-container-91108149929">test container</div>
 
-<script async src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
-<script async type="text/javascript">
+<script type="text/javascript">
     var exampleCallback = function() {
         console.log('Order complete!');
     };
