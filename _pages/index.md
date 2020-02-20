@@ -16,7 +16,7 @@ image: '/images/pages/about.jpg'
 - **Programme**: first version available, [here](/eldorado/program) (still subject to small changes).
 
 - **Venue and Accommodation**:  Visit the [Venue](/eldorado/venue) page (or check the 'hamburger' menu on the top-right).
-- **Questions?** Please have a look at the [FAQ](), or email [us](info@impresso-project.ch).
+- **Questions?** Please have a look at the [FAQ](/eldorado/faq), or email [us](info@impresso-project.ch).
 
 
 
