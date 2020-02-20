@@ -18,19 +18,19 @@ Yes, your are welcome, but you must first register via [eventbrite](https://www.
 
 **I will present at the workshop, what are the instructions for the presentations**?
 
-Presentation should be in English and last about 15min. Please refer to the [Authors](/authors/) page.
+Presentation should be in English and last about 15min. Please refer to the [Authors](/eldorado/authors/) page.
 
 
 
 **To which hotel can I stay? Do you have preferential tarifs?**
 
-We provide a list of hotels with preferential tarifs on the [Venue](/pages/logistics/) page.
+We provide a list of hotels with preferential tarifs on the [Venue](/eldorado/venue/) page.
 
 
 
 **What are my transportation/parking options for getting to and from the event?**
 
-Please refer to the [Venue](/pages/logistics/) page.
+Please refer to the [Venue](/eldorado/venue/) page.
 
 
 
