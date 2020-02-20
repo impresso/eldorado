@@ -11,6 +11,22 @@ image: '/images/pages/about.jpg'
 
 - **Registration** is free, but **mandatory**, via [eventbrite](https://www.eventbrite.com/e/eldorado-workshop-registration-91108149929)
 
+<div id="eventbrite-widget-container-91108149929"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+    window.EBWidgets.createWidget({
+        widgetType: 'checkout',
+        eventId: '91108149929',
+        iframeContainerId: 'eventbrite-widget-container-91108149929',
+        iframeContainerHeight: 525,
+    });
+</script>
+
 - **Dates & Place**: 23 and 24 April 2020, Lausanne, Switzerland.
 
 - **Programme**: first version available, [here](/eldorado/program) (still subject to small changes).
