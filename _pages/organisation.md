@@ -19,6 +19,7 @@ order: 60
 **Scientific committee:**
 
 
+* Christoph Brüll (University of Luxembourg)
 * Estelle Bunout (University of Luxembourg)
 * Frédéric Clavert (University of Luxembourg)
 * Simon Clematide (University of Zurich)

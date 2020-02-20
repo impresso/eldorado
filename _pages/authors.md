@@ -6,12 +6,7 @@ order: 40
 #image: '/images/pages/contact.jpg'
 ---
 
-
-
-
-
 As announced in the CFP, the workshop communications will be published in an online, open access edited volume with De Gruyter as part of a Digital History book collection. 
-
 
 
 #### Instructions for oral presentation
@@ -20,7 +15,6 @@ As announced in the CFP, the workshop communications will be published in an onl
 
 - Presenters can use their own laptop (HDMI) or upload their slides on the presentation computer before the session.
 
-  
 
 #### Instructions for paper submission
 
@@ -29,7 +23,6 @@ As announced in the CFP, the workshop communications will be published in an onl
 **Length:**  30,000 signs, with spaces (abstract, bio and bibliography *excluded*)
 
 **Language**: French, English or German. For submissions in German or French, a broad summary in English is additionally required (4,000 characters with spaces). 
-
 
 
 #### Important Dates
@@ -47,6 +40,5 @@ As announced in the CFP, the workshop communications will be published in an onl
 **Mid-september**: Submission of manuscript to De Gruyter.
 
 **Spring 2021**: Publication of the online, open access edited volume (printed copies will also be possible).
-
 
 
