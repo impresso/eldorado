@@ -45,7 +45,7 @@ If you arrives by plane, the easiest way from Geneva Airport is by train. The tr
 
 - [SwissTech hotel](), right next to the campus, at the metro station.
 
-  CHF 139.- per room per night for a single occupation business room with breakfast  (additional tourist tax per day CHF 3.50). [More information soon]
+  CHF 125.- per room per night for a single or double occupation business room *without* breakfast, which comes at an additional cost of CHF 14-. (additional tourist tax per day CHF 3.50). Booking is to be made via [email](mailto:sth@epfl.ch) or directly [online](http://www.swisstech-hotel.com/) with the code "Eldorado" <u>until March 10, 2020</u>.
 
 - [Hotel des Voyageurs]([www.voyageurs.ch](http://www.voyageurs.ch/)), in Lausanne down-town.
 
