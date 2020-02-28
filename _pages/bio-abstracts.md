@@ -24,7 +24,10 @@ Abstract:
 
 **Martin Gasteiner and Andreas Enderlin. Crossing or Intersecting the Emperor´s Desk with digitized Newspaper Data.**
 
-Abstract:
+Abstract: Entity-source-networks in the late Habsburg Empire: Connecting entities and sources from newspaper databases and government files. The project tries to highlight, formalize and offer a typological model for newspapers and government files as interconnected sources. This results in the significant increase of the epistemic value of the sources for historical research and historiography.
+The almost innumerable highly formalized, written acts of decisions Emperor Francis Joseph I. received from his cabinet office during his reign show a clear focus on domestic affairs, which rarely went beyond the borders of the monarchy. If, however, the perspective is steered away from the decisions themselves towards the broader process of decision-making, a well-informed course of events integrated into far-reaching networks of governance consisting of numerous new actors becomes visible. Reports about these processes and actors are evident in newspapers of the time. This approach of entangled history and interconnected sources on a digital base enables surprising and new insights for researchers in the humanities.
+The project is a collaboration of the FWF-project ‚The Emperor’s Desk: a site of policy making‘ (funded by the Austrian science fund), Newseye 70299 (Horizon 2020), the Vienna University Library and the Austrian National Archives.
+
 
 
 **Martin Grandjean. Une analyse systématique de la médiatisation des débats de la Société des Nations dans le Journal de Genève.**
