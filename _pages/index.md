@@ -5,7 +5,16 @@ permalink: /
 layout: index
 order: 0
 image: '/images/pages/about.jpg'
+
 ---
+
+
+
+**>> UPDATE: EVENT CANCELLED DUE TO COVID-19 <<**
+
+**We are considering replacement scenarios and will communicate them by 20.03.2020.**
+
+
 
 <div style="text-align: justify"> From manual, on-site exploration of microfilm or paper collections to online keyword search over millions of OCRized page, <b>access to digitized newspapers has changed significantly</b>. Coupled with automatic enrichement of sources via text and image processing, this represents a whole world of new possibilities. <b>An Eldorado?</b> Despite undeniable merits, the digital transformation and the new affordance of historical newspapers  also brings some <b>drawbacks and possible pitfalls which need to be carefully assessed</b>. The Eldorado workshop, supported by the impresso project, will bring  together a group of historians, librarians, computer scientists and designers to discuss <b>how digitisation is changing historical research practices</b>.</div><br>
 
