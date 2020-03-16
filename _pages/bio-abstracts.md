@@ -8,14 +8,14 @@ order: 20
 
 ---
 
-**Irene Amstutz and Martin Reisacher. Historische Zeitungsausschnitte im digitalen Eldorado.**
+**Irene Amstutz and Martin Reisacher. Digital compass for 2.5 million historical newspaper clippings.**
 
-Abstract: 
+Abstract: The Swiss Economic Archives SWA owns a collection of newspaper clippings on companies, persons and factual topics related to the Swiss economy, dating back to the 1850s. The 2.5 million clippings represent a well-used, central source collection for economic and social history. As part of a still ongoing project, about one third of the newspaper clippings have been digitized and made available in full text on a IIIF-based interface, offering new entrances to the collection. The presentation is intended to give researchers an understanding of the dossier principle used historically and to introduce the innovative IIIF-based search options. This is order to initiate a dialogue regarding the expectations of the digital presentation of a newspaper clipping collection and its relevance after the digital full text revolution. 
 
 
 **Steven Claeyssens. Digitised Collections of Historical Publications as Bibliographic Objects: the Delpher Newspaper Case.**
 
-Abstract:
+Abstract: The KB, the national library of the Netherlands, publishes around 100 million pages of historical paper publications, available for digital research, on the national platform Delpher. It is argued that a better understanding of this type of massive collections of digital surrogates necessarily starts with the identification of the bibliographic objects that constitute the collection and establish their complex relationship. Expanding on the argument by Cordell (2017) that ‘we might think of OCR as a compositor setting text in a language it does not comprehend’ the  paper takes a bibliographic approach to investigate the collection of digitised newspapers published on Delpher.
 
 **Claire-Lise Gaillard. Feuilleter la presse ancienne par gigaoctets.**
 
@@ -24,7 +24,10 @@ Abstract:
 
 **Martin Gasteiner and Andreas Enderlin. Crossing or Intersecting the Emperor´s Desk with digitized Newspaper Data.**
 
-Abstract:
+Abstract: Entity-source-networks in the late Habsburg Empire: Connecting entities and sources from newspaper databases and government files. The project tries to highlight, formalize and offer a typological model for newspapers and government files as interconnected sources. This results in the significant increase of the epistemic value of the sources for historical research and historiography.
+The almost innumerable highly formalized, written acts of decisions Emperor Francis Joseph I. received from his cabinet office during his reign show a clear focus on domestic affairs, which rarely went beyond the borders of the monarchy. If, however, the perspective is steered away from the decisions themselves towards the broader process of decision-making, a well-informed course of events integrated into far-reaching networks of governance consisting of numerous new actors becomes visible. Reports about these processes and actors are evident in newspapers of the time. This approach of entangled history and interconnected sources on a digital base enables surprising and new insights for researchers in the humanities.
+The project is a collaboration of the FWF-project ‚The Emperor’s Desk: a site of policy making‘ (funded by the Austrian science fund), Newseye 70299 (Horizon 2020), the Vienna University Library and the Austrian National Archives.
+
 
 
 **Martin Grandjean. Une analyse systématique de la médiatisation des débats de la Société des Nations dans le Journal de Genève.**
@@ -32,9 +35,9 @@ Abstract:
 Abstract:
 
 
-**Malorie Guilbaud Perez. Analyser un processus mémoriel au travers des archives de presse numérisées et physiques : l’exemple du Triangle Fire.**
+**Malorie Guilbaud Perez. How a national common memory of a traumatic event has been built: the case of the Triangle Fire in newspaper collections, digitized or on-site used.**
 
-Abstract: 
+Abstract: The fire that devastated the three top floors of the Asch building, workplace for the five hundred employees of the Triangle Company, is registered as one of the worst catastrophes occurred in New York through the XXth century. Not only this event made the headlines of the main newspapers but also, despite years passing by, it grounded into always larger social and territorial circles. Confronting digitized newspapers collections to on-site explorations and thanks to specific program analysis, this work tries to explore to what extend newspaper corpus could be built and used to understand it. 
 
 
 **Christoph Hanzig, Martin Munke and Michael Thoß. Digitizing and presenting a Nazi newspaper – the example "Der Freiheitskampf".**
@@ -63,7 +66,7 @@ Abstract: Late-nineteenth century U.S. newspapers provide a rich archive of the 
 
 **Pierre-Carl Langlais. Classified news.**
 
-Abstract: 
+Abstract: Numapresse, a digital humanities project devoted to the historical study of French-speaking newspapers from 1800, has trained models to recognize major newspaper genres from political news to sport section or serial novels. The key output of this program has been the automated classification of most the major French dailies of the interwar period, from 1920 to 1939. Automated classification makes it possible to visualize structural patterns that are not easily accounted for by more qualitative historical approaches, such as the gradual emergence of moderne newspaper genres in the 19th century or the development of thematic supplements in the interwar period. Theses large scale classification programs are currently being extended to non-textual objects such as news images or editorial structures. 
 
 
 **Sarah Oberbichler. Challenges and Pitfalls when working with Digital Newspaper Collections - an Example on the Topic "Return Migration".**
@@ -76,9 +79,11 @@ Abstract: Based on a case study on return migration - defined as the movement of
 Abstract: The paper explores the ontological and epistemological ramifications of text reuse. It draws on a research project on Finnish digitized newspapers and magazines, five million pages in total, from 1771 to 1920. The paper analyzes the different cycles of text reuse. Some repetition chains were very slow, lasting over 140 years, some were very rapid, viral chains of reuse. Our argument is that text reuse has ontological ramifications on how we conceive the past processes in a media network. At the same time, it involves epistemological considerations, especially on the material conditions of both newspaper publishing and its digitization process. 
 
 
-**Claudia Resch and Dario Kampkaspar. iffi«-' ■= und £ann$b*i** **- Forschen mit Fehlern: Textqualität bei der Digitalisierung historischer Zeitungen.**
+**Claudia Resch and Dario Kampkaspar. iffi«-' ■= und £ann$b*i** **- why the quality of full text matters (for historians and historical linguists).**
 
-Abstract: 
+Abstract: For some time now, researchers, librarians and IT experts have been cooperating intensively to advance the digitisation of historical newspapers. Funding initiatives are pushing for the digital provision of both, images and full texts. However, little is said about the quality of these texts on the word and sign level. In fact, there are significant differences: they range from automatically generated OCR to manually improved, almost error-free, full text versions comparable to gold standard corpora.
+Based on a digitisation project for the *Wiener Zeitung*, this paper will discuss which measures could help to increase text quality and how historical newspapers could thus become a reusable Eldorado for historians and historical linguists.
+
 
 
 **Francois Robinet and Rémi Korman. Des usages des collections numériques de la presse rwandaise pour écrire l’histoire du génocide des Tutsi.**
@@ -86,9 +91,10 @@ Abstract:
 Abstract: 
 
 
-**Yannick Rochat and Selim Krichane. Exploring video game magazines.**
+**Yannick Rochat and Selim Krichane. The colourful task of exploring video game magazines.**
 
-Abstract:
+Abstract: One of the main sources documenting the history of video games – their development, practice, or reception – are the numerous magazines published from late 1970s to the mid-2000s. They display digests of industry announcements, summary calendars, reports or game reviews and are invaluable in documenting the history of the media.
+During this talk, we will show a web application, based on community-driven archival material, which allows the exploration of some of these magazines. In particular, we will discuss the difficulties of dealing with sources having unusual formatting, like non aligned text or bad contrast between text and page background.
 
 
 **Fredrik Norén with Pelle Snickars, Alexandra Borg, Johan Jarlbrink, Erik Edoff and Måns Magnusson. Measuring "the political" in Swedish newspaper data during the 1960s and 1970s.**
