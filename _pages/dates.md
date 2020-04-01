@@ -9,9 +9,6 @@ order: 40
 
 
 
-
-#### Important Dates (covid updated)
-
 **10.02.2020**: Final title and abstract (submission via email to [info@impresso-project.ch](mailto:info@impresso-project.ch)).
 
 **10.04.2020  [optional]**: Pre-workshop chapter submission (submission via easychair).
