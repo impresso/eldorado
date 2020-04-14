@@ -2,7 +2,7 @@
 layout: page
 title: FAQs - Online workshop
 permalink: /faq/
-order: 100
+order: 20
 image: '/images/pages/contact.jpg'
 ---
 
@@ -12,7 +12,7 @@ image: '/images/pages/contact.jpg'
 
 If not done already, register via [EventBrite](https://www.eventbrite.com/e/eldorado-workshop-registration-91108149929).
 
-Registration is open until 21.04 noon.
+Registration is open until 22.04 11:30am.
 
 Registered participants will receive a Zoom link and password on Tues 21.04 afternoon for all sessions.
 
