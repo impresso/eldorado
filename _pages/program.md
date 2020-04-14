@@ -1,16 +1,17 @@
 ---
 layout: page
-title: Program
+title: (Old program)
 permalink: /program/
-order: 10
+order: 11
 image: '/images/pages/program.jpg'
 ---
 
 [jump to  [24 April](#friday-24-april)]
 
-***subject to minor changes***
+***This is the old program as planed for the in-presence workwhop that we keep  for memo.***
+***PLEASE REFER TO THE NEW ONLINE PROGRAM.***
 
-### Thursday 23 April 2019
+### Thursday 23 April 2020
 
 **08h30-9h00:** Welcome & Coffee.
 
@@ -50,7 +51,7 @@ image: '/images/pages/program.jpg'
 
 
 
-### Friday 24 April 
+### Friday 24 April 2020
 
 **09h00-10h30: Second digital life of analogue newspaper topical collections.**. *Chair*: Maud Ehrmann
 1. Suzanna Krivulskaya. *The Crimes of Preachers: Religion, Scandal, and the Trouble with Digitized Archives.*
