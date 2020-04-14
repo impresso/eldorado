@@ -2,7 +2,7 @@
 layout: page
 title: Venue
 permalink: venue/
-order: 30
+order: 60
 #image: '/images/pages/contact.jpg'
 
 ---
