@@ -2,7 +2,7 @@
 layout: page
 title: Organisation
 permalink: /organisation/
-order: 60
+order: 80
 #image: '/images/pages/contact.jpg'
 ---
 
