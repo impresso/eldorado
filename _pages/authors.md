@@ -18,7 +18,7 @@ As announced in the CFP, the workshop communications will be published in an onl
 
 #### Instructions for paper submission
 
-**Templates**: one of the Word or Latex manuscript templates available on the De Gruyter website: https://www.degruyter.com/page/59
+**Templates**: one of the Word or Latex manuscript templates from De Gruyter. Since they are not available anymore online, please send us an email and we will share them with you.
 
 **Length:**  30,000 signs, with spaces (abstract, bio and bibliography *excluded*)
 
