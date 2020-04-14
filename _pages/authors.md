@@ -2,7 +2,7 @@
 layout: page
 title: Instructions for Authors
 permalink: /authors/
-order: 40
+order: 50
 #image: '/images/pages/contact.jpg'
 ---
 
