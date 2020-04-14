@@ -1,8 +1,8 @@
 ---
 layout: page
 title: (Old program)
-permalink: /old-program/
-order: 20
+permalink: /program/
+order: 70
 image: '/images/pages/program.jpg'
 ---
 
