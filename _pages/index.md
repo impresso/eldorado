@@ -37,8 +37,6 @@ image: '/images/pages/about.jpg'
 
 
 
-- 
-- 
 - **Questions?** Please have a look at the [FAQ](/eldorado/faq), or email [us](mailto:info@impresso-project.ch).
 
 
