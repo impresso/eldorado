@@ -12,7 +12,10 @@ image: '/images/pages/about.jpg'
 
 #### UPDATE:  Eldorado workshop goes virtual 
 
-- With registered presentations and live streem Q&A sessions via Zoom.
+- **Dates & Place**: 23 and 24 April 2020, Zoom Webinars, with registered presentations and live streem Q&A sessions
+- **Programme**: revised version available [here](/eldorado/online-program) (still subject to small changes).
+- **Zoom access**:  Zoom links and passwords will be shared with _registered_ participants on 22.04
+- **How-to Zoom**: we have prepared some guidelines, here is the [link](https://docs.google.com/presentation/d/1OzQ96R875Z3GTobv15hnqJe5XMgfCkXqTCdHY17EezE/edit?usp=sharing) and here the [pdf](https://impresso.github.io/eldorado/assets/Eldorado-Zoom-Guidelines.pdf)
 
 - **Registration** is free, an **still mandatory**, via [eventbrite](https://www.eventbrite.com/e/eldorado-workshop-registration-91108149929)
 
@@ -34,9 +37,8 @@ image: '/images/pages/about.jpg'
 
 
 
-- **Dates & Place**: 23 and 24 April 2020, Zoom Webinars
-- **Programme**: revised version available [here](/eldorado/online-program) (still subject to small changes).
-- **Zoom access**:  Zoom links and passwords will be shared with _registered_ participants on 22.04
+- 
+- 
 - **Questions?** Please have a look at the [FAQ](/eldorado/faq), or email [us](mailto:info@impresso-project.ch).
 
 
