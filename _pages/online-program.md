@@ -58,7 +58,6 @@ _Chair_: Marten Düring; *Tech-co-chair*: Maud Ehrmann.
 
 
 
-
 ### Frid 24 April 2020 - Historiographies with digitised newspapers
 
 **10h00-12h00: SESSION  4 - Emerging practices of historiography with digitised newspapers (1)** 
