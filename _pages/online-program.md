@@ -6,7 +6,7 @@ order: 10
 image: '/images/pages/program.jpg'
 ---
 
-***This is the new online program, still subject to minor changes.*** ***All times are CET.***
+***This is the new online program. All times are CEST.***
 
 ### Wed 22 April 2020 - Virtual Welcome 
 
