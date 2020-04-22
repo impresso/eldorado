@@ -36,12 +36,13 @@ _Chair_: Maud Ehrmann; *Tech-co-chair*: Estelle Bunout.
 
 
 
-**14h30-15h30: SESSION 2 -  At first, there was OCR…**
+**14h00-15h30: SESSION 2 -  At first, there was OCR…**
 
 _Chair_: Simon Clematide; *Tech-co-chair*: Estelle Bunout.
 
-1. Phillip Stroebel. ***Towards Large-Scale OCR for Historical Newspapers with Self-Trained Models*.**
-2. Andrew Torget. ***Mapping Texts: Examining the Effects of OCR Noise on Historical Newspaper Collections.***
+1. ***Impresso* Team**. *Impresso* project and interface: a brief overview
+2. Phillip Stroebel. ***Towards Large-Scale OCR for Historical Newspapers with Self-Trained Models*.**
+3. Andrew Torget. ***Mapping Texts: Examining the Effects of OCR Noise on Historical Newspaper Collections.***
 
 
 
