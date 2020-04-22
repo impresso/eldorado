@@ -14,7 +14,7 @@ image: '/images/pages/about.jpg'
 
 - **Dates & Place**: 23-24.04 2020, Zoom Webinars (recorded presentations and live Q&A sessions)
 - **Programme**:  [LINK](/eldorado/online-program) (still subject to small changes).
-- **Zoom access**:  Zoom links and passwords will be shared with _registered_ participants on 22.04
+- **Zoom access**:  Zoom links and passwords will be shared with _registered_ participants on Wed 22.04 around noon.
 - **Zoom Guidelines**:  [LINK](https://docs.google.com/presentation/d/1OzQ96R875Z3GTobv15hnqJe5XMgfCkXqTCdHY17EezE/edit?usp=sharing),  [PDF](https://impresso.github.io/eldorado/assets/Eldorado-Zoom-Guidelines.pdf)
 
 - **Registration** is free, an **still mandatory**, via [eventbrite](https://www.eventbrite.com/e/eldorado-workshop-registration-91108149929)
