@@ -53,8 +53,8 @@ _Chair_: Simon Clematide; *Tech-co-chair*: Estelle Bunout.
 _Chair_: Marten Düring; *Tech-co-chair*: Maud Ehrmann.
 
 1. Martin Gasteiner and Andreas Enderlin. ***Crossing or Intersecting the Empero's Desk with digitized Newspaper Data*.**
-2. Irene Amstutz and Martin Reisacher. ***Historische Zeitungsausschnitte im digitalen Eldorado**.*
-3. Suzanna Krivulskaya. ***The Crimes of Preachers: Religion, Scandal, and the Trouble with Digitized Archives**.*
+2. Irene Amstutz and Martin Reisacher. ***Digital compass for 2.7 million historical newspaper clippings***.
+3. Suzanna Krivulskaya. ***The Crimes of Preachers: Religion, Scandal, and the Trouble with Digitized Archives***.
 
 
 
