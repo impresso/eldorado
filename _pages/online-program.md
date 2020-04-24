@@ -82,7 +82,7 @@ _Chair_: Estelle Bunout; *Tech-co-chair*: Maud Ehrmann
 2. Tobias von Waldkirch. ***Le locuteur je comme principe d'organisation du discours dans les correspondances particulières du Journal de Genève au XIXe siècle : l’exemple de la couverture de guerre**.*
 3. Pelle Snickars. ***Measuring "the political" in Swedish newspaper data during the 1960s and 1970s***.
 
-**15h30-16h00: Conclusion** 
+**15h45-16h15: Conclusion** 
 
 
 
